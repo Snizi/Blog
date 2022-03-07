@@ -1,0 +1,4 @@
+[submodule "sniziblog/public"]
+	path = sniziblog/public
+	url = https://github.com/Snizi/snizi.github.io.git
+	branch = main
