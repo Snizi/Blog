@@ -1,4 +1,4 @@
-baseURL = 'https://snizi.github.io/'
+baseURL = 'http://www.luan.ninja/'
 languageCode = 'en-us'
 title = 'Snizi Blog'
 theme="hugo-theme-hello-friend"
