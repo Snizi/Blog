@@ -1,4 +1,4 @@
-baseURL = 'http://www.luan.ninja/'
+baseURL = 'http://luan.ninja/'
 languageCode = 'en-us'
 title = 'Snizi Blog'
 theme="hugo-theme-hello-friend"
